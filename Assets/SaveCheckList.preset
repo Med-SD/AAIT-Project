@@ -1,0 +1,352 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SaveCheckList
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: c1030141045901f46b40e26e8e3bf461,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.size
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[0].name
+    value: Welcome
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[0].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: 47dcb68b5aae4bd47821f56d70df2710, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[0].repetend
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[0].status
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[1].name
+    value: Safety
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[1].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: f4e4bb48aba436e48bbdbca7c79e9047, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[1].repetend
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[1].status
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[2].name
+    value: wearHelmet
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[2].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: e92001deaed7779498570ea607fa5f72, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[2].repetend
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[2].status
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[3].name
+    value: wearVist
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[3].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: f535cec4843785043b83dbeec0230673, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[3].repetend
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[3].status
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[4].name
+    value: takeVibration
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[4].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: 22bd109e8efbe074c84964e949d1c48e, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[4].repetend
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[4].status
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[5].name
+    value: Assecoire
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[5].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: 2520bd141e076aa468db1c356cfc79be, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[5].repetend
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[5].status
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[6].name
+    value: goControlRoom
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[6].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: 70e29f0141f5e5e43b65f3a4593b8fcd, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[6].repetend
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[6].status
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[7].name
+    value: signDoc
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[7].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: 0dc773138616c7a4d8fbad60bce9cade, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[7].repetend
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[7].status
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[8].name
+    value: goConstrationSite
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[8].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: 01016b54f78e8794e94f4e55b27ffabc, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[8].repetend
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[8].status
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[9].name
+    value: GoToFrontOfPump
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[9].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: 5de9e722f3e044f4e90b5e964c01c1b7, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[9].repetend
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[9].status
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[10].name
+    value: TakeSpeed
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[10].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: 0ef5168cae90707468bcad90fb46b531, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[10].repetend
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[10].status
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[11].name
+    value: TakeSpeed01
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[11].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: 25587f80e4595ab458e26adb9b8bad25, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[11].repetend
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[11].status
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[12].name
+    value: TakeSpeed02
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[12].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: 9f8552df3a01bbf45beff9aef4a379c7, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[12].repetend
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[12].status
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[13].name
+    value: TakeSpeed03
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[13].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: 38f1f903476f7394fbd43c4663ea0b19, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[13].repetend
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[13].status
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[14].name
+    value: TakeVibration
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[14].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: 3ecb61f9f0a77a141a3f56d5fba143b9, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[14].repetend
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[14].status
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[15].name
+    value: TakeVibration01
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[15].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: 25587f80e4595ab458e26adb9b8bad25, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[15].repetend
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[15].status
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[16].name
+    value: TakeVibration02
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[16].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: 9f8552df3a01bbf45beff9aef4a379c7, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[16].repetend
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[16].status
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[17].name
+    value: TakeVibration03
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[17].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: 38f1f903476f7394fbd43c4663ea0b19, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[17].repetend
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[17].status
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[18].name
+    value: GoBackToControllRoom
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[18].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: 29437fb8295a37d47abccae9e9323078, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[18].repetend
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[18].status
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[19].name
+    value: ExportData
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[19].clip
+    value: 
+    objectReference: {fileID: 8300000, guid: e04851c9661d4cc49ab761e62539cbac, type: 3}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[19].repetend
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: list.Array.data[19].status
+    value: 0
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []

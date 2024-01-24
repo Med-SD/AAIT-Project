@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1030141045901f46b40e26e8e3bf461, type: 3}
+  m_Name: Scenario01
+  m_EditorClassIdentifier: 
+  list:
+  - name: Welcome
+    clip: {fileID: 8300000, guid: 47dcb68b5aae4bd47821f56d70df2710, type: 3}
+    repetend: 1
+    status: 1
+  - name: Safety
+    clip: {fileID: 8300000, guid: f4e4bb48aba436e48bbdbca7c79e9047, type: 3}
+    repetend: 1
+    status: 1
+  - name: wearHelmet
+    clip: {fileID: 8300000, guid: e92001deaed7779498570ea607fa5f72, type: 3}
+    repetend: 0
+    status: 1
+  - name: wearVist
+    clip: {fileID: 8300000, guid: f535cec4843785043b83dbeec0230673, type: 3}
+    repetend: 0
+    status: 1
+  - name: takeVibration
+    clip: {fileID: 8300000, guid: 463ac685094cc3e48bbd2718fe411e6a, type: 3}
+    repetend: 0
+    status: 1
+  - name: Assecoire
+    clip: {fileID: 8300000, guid: 2520bd141e076aa468db1c356cfc79be, type: 3}
+    repetend: 0
+    status: 1
+  - name: goControlRoom
+    clip: {fileID: 8300000, guid: 70e29f0141f5e5e43b65f3a4593b8fcd, type: 3}
+    repetend: 0
+    status: 1
+  - name: signDoc
+    clip: {fileID: 8300000, guid: a0a843b9cd9bf134a848deb29f3f6c13, type: 3}
+    repetend: 0
+    status: 1
+  - name: goConstrationSite
+    clip: {fileID: 8300000, guid: 01016b54f78e8794e94f4e55b27ffabc, type: 3}
+    repetend: 0
+    status: 0
+  - name: GoToFrontOfPump
+    clip: {fileID: 8300000, guid: 5de9e722f3e044f4e90b5e964c01c1b7, type: 3}
+    repetend: 0
+    status: 0
+  - name: TakeVibration
+    clip: {fileID: 8300000, guid: 3ecb61f9f0a77a141a3f56d5fba143b9, type: 3}
+    repetend: 1
+    status: 0
+  - name: PlaceCaptureInPosition1
+    clip: {fileID: 8300000, guid: 4dc527306d9deb04eb75633bfff9de98, type: 3}
+    repetend: 0
+    status: 0
+  - name: TakeVibration01
+    clip: {fileID: 8300000, guid: 25587f80e4595ab458e26adb9b8bad25, type: 3}
+    repetend: 0
+    status: 0
+  - name: PlaceCaptureInPosition2
+    clip: {fileID: 8300000, guid: 4dc527306d9deb04eb75633bfff9de98, type: 3}
+    repetend: 0
+    status: 0
+  - name: TakeVibration02
+    clip: {fileID: 8300000, guid: 9f8552df3a01bbf45beff9aef4a379c7, type: 3}
+    repetend: 0
+    status: 0
+  - name: ExportData
+    clip: {fileID: 8300000, guid: 44da01aafb93bb04c9dd5f5f0188f6c8, type: 3}
+    repetend: 0
+    status: 0
